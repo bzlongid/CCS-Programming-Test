@@ -6,9 +6,9 @@ With that being said, here's my description on...
 
 # How to Use the (Very Basic<sup>TM</sup>) Level Editor
 * To spawn a new object, click the appropriate button on the UI
-* The ojbect will spawn in front of the player (first person level editor)
+* The object will spawn in front of the player (first person level editor)
 
-I'll also include some notes on how I would approach the rest of the project...
+## I'll also include some notes on how I would approach the rest of the project...
 * Grabbing objects would allow you to adjust the placement and rotation (object prefabs would be grabbable)
 * Letting go of objects would freeze their position and rotation
 * Toggling a designated locomote UI button would change the player's movement abilities

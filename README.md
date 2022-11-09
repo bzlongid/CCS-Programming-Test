@@ -4,7 +4,7 @@ Hi all! Out of transparency, I'm reaching the 6 hour mark on this assignment and
 
 With that being said, here's my description on...
 
-# How to Use the (Very Basic<sup>TM</sup>) Level Editor
+## How to Use the (Very Basic<sup>TM</sup>) Level Editor
 * To spawn a new object, click the appropriate button on the UI
 * The object will spawn in front of the player (first person level editor)
 
